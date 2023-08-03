@@ -1,0 +1,100 @@
+Angelic Wall
+Arcades, the Strategist
+Archers' Parapet
+Arid Mesa 
+Assault Formation 
+Axebane Guardian 
+Bloodstained Mire 
+Botanical Sanctum 
+Breeding Pool 
+Bring to Light 
+Cathedral Membrane 
+Celestial Colonnade 
+Clockwork Drawbridge 
+Concealed Courtyard 
+Concealing Curtains // Revealing Eye 
+Consulate Skygate 
+Crashing Drawbridge 
+Daze 
+Deserted Beach 
+Diabolic Intent 
+Drift of Phantasms 
+Eladamri's Call 
+Enlightened Tutor 
+Ensnaring Bridge 
+Excavated Wall 
+Fatal Push 
+Flooded Strand 
+Fog Bank 
+Force of Will 
+Forest 
+Fortified Rampart 
+Glacial Fortress 
+Glacial Wall 
+Godless Shrine 
+Green Sun's Zenith 
+Grist, the Hunger Tide 
+Hallowed Fountain 
+Helm of Obedience 
+High Alert 
+Hinterland Harbor 
+Horizon Canopy 
+Hover Barrier 
+Idyllic Tutor 
+Island 
+Jeskai Barricade 
+Mana Confluence 
+Mana Leak 
+Marsh Flats 
+Meekstone 
+Misty Rainforest 
+Overgrown Battlement 
+Overgrown Tomb 
+Perplex 
+Plains 
+Polluted Delta 
+Prismatic Ending 
+Profane Tutor 
+Raffine's Tower 
+Razorverge Thicket 
+Rest in Peace 
+Savannah 
+Scalding Tarn 
+Seachrome Coast 
+Secret Door 
+Shield Sphere 
+Slaughter the Strong 
+Spara's Headquarters 
+Steel Wall 
+Jace, the Mind Sculptor
+Tetsuko Umezawa, Fugitive
+Sunpetal Grove 
+Sunscape Familiar 
+Swords to Plowshares 
+Teferi, Time Raveler 
+Temple Garden 
+Tinder Wall 
+Toxic Deluge 
+Tundra 
+Urza's Saga 
+Verdant Catacombs 
+Vine Trellis 
+Walking Bulwark 
+Wall of Blood 
+Wall of Blossoms 
+Wall of Denial 
+Wall of Essence 
+Wall of Glare 
+Wall of Hope 
+Wall of Ice 
+Wall of Nets 
+Wall of Omens 
+Wall of Roots 
+Wall of Runes 
+Wall of Tanglecord 
+Wall of Tears 
+Watery Grave 
+Weathered Sentinels 
+Welcoming Vampire 
+Windswept Heath 
+Wooded Foothills 

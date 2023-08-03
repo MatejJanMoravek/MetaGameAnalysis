@@ -1,0 +1,100 @@
+Aether Channeler
+Avacyn's Pilgrim
+Aven Mindcensor
+Barrin, Tolarian Archmage
+Biophagus
+Birds of Paradise
+Caves of Chaos Adventurer
+Prophetic Titan
+Deathrite Shaman
+Linvala, Shield of Sea Gate
+Coiling Oracle
+Deep Gnome Terramancer
+Deputy of Detention
+Distinguished Conjurer
+Elesh Norn, Mother of Machines
+Elite Guardmage
+Endurance
+Eternal Witness
+Faerie Seer
+Feywild Caretaker
+Fyndhorn Elves
+Harbinger of the Tides
+Harmonic Prodigy
+Ignoble Hierarch
+Malcator, Purity Overseer
+Malevolent Hermit
+Mistmeadow Witch
+Naban, Dean of Iteration
+Noble Hierarch
+Omnath, Locus of Creation
+Palace Jailer
+Paradise Druid
+Prime Speaker Vannifar
+Qasali Pridemage
+Reflector Mage
+Seasoned Dungeoneer
+Siren Stormtamer
+Snapcaster Mage
+Solitude
+Soulherder
+Spellseeker
+Sylvan Caryatid
+Undermountain Adventurer
+Uro, Titan of Nature's Wrath
+Vendilion Clique
+Venser, Shaper Savant
+Watcher for Tomorrow
+White Plume Adventurer
+Fable of the Mirror-Breaker
+Touch the Spirit Realm
+Chord of Calling
+Eladamri's Call
+Ephemerate
+Momentary Blink
+Path to Exile
+Sage's Dousing
+Swords to Plowshares
+Wizard's Lightning
+Wizard's Retort
+Arid Mesa
+Base Camp
+Bloodstained Mire
+Boseiju, Who Endures
+Botanical Sanctum
+Breeding Pool
+Flooded Strand
+Forest
+Hallowed Fountain
+Island
+Ketria Triome
+Marsh Flats
+Misty Rainforest
+Otawara, Soaring City
+Plains
+Plateau
+Polluted Delta
+Prismatic Vista
+Raugrin Triome
+Razorverge Thicket
+Riptide Laboratory
+Savannah
+Scalding Tarn
+Snow-Covered Forest
+Snow-Covered Island
+Spara's Headquarters
+Taiga
+Temple Garden
+Tropical Island
+Tundra
+Verdant Catacombs
+Volcanic Island
+Windswept Heath
+Wooded Foothills
+Minsc & Boo, Timeless Heroes
+Teferi, Time Raveler
+Eldritch Evolution
+Finale of Devastation
+Neoform
+Prismatic Ending
+Step Through
