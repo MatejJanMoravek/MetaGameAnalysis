@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e985951e-ca8c-4609-acb7-62598f2c2622" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CardsNo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CardsNo.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decklists/Búrik.txt" beforeDir="false" afterPath="$PROJECT_DIR$/decklists/Búrik.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decklists/Fidel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/decklists/Fidel.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decklists/Herz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/decklists/Herz.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decklists/Míšek.txt" beforeDir="false" afterPath="$PROJECT_DIR$/decklists/Míšek.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decklists/Oskar.txt" beforeDir="false" afterPath="$PROJECT_DIR$/decklists/Oskar.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decklists/Peewee.txt" beforeDir="false" afterPath="$PROJECT_DIR$/decklists/Peewee.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decklists/Renné.txt" beforeDir="false" afterPath="$PROJECT_DIR$/decklists/Renné.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decklists/Richard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/decklists/Richard.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decklists/Steve.txt" beforeDir="false" afterPath="$PROJECT_DIR$/decklists/Steve.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decklists/Viktor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/decklists/Viktor.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decklists/Wrata.txt" beforeDir="false" afterPath="$PROJECT_DIR$/decklists/Wrata.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Scryfall/PycharmProjects/pythonProject/main.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
